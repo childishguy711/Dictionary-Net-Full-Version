@@ -239,4 +239,4 @@ This repository serves as the official landing page for Dictionary .NET. The sof
 **Get the most recent version of Dictionary .NET today!**
 
 ---
-**Last updated:** 2026-09-11 12:32:32 UTC
+**Last updated:** 2026-09-11 16:52:00 UTC
